@@ -32,7 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey-0367)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Andrey-0367&show_icons=true&theme=dark" alt="GitHub Stats" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-0367)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="header" align="center">
