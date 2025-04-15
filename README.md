@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yYzFjZGJvZGx2Y3RlZ3Z5Z2V6dGJ6eGZ1Z2R6d2VjZ2Z6eWZ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- 🎓 **Background**: Mining Engineer →  Developer (Completed Yandex Practicum courses in **Backend & Frontend**).  
+- 🎓 **Background**: Горный инженер →  Developer (Completed Yandex Practicum courses in **Backend & Frontend**).  
 - 💼 **Currently**: Working on [Studio-Yandex-Practicum/rassvet_frontend](https://github.com/Studio-Yandex-Practicum/rassvet_frontend).  
 - 🔥 **Passionate** about clean code, UX, and modern web technologies.  
 - 📫 **Contact**: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/adrey_vasilich)  
