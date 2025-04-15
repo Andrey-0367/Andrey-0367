@@ -15,7 +15,7 @@
 - 💼 **Currently**: Working on [Studio-Yandex-Practicum/rassvet_frontend](https://github.com/Studio-Yandex-Practicum/rassvet_frontend).  
 - 🔥 **Passionate** about clean code, UX, and modern web technologies.  
 - 📫 **Contact**: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/adrey_vasilich)  
-- 🔍 **Open to work**: [My Resume](https://disk.yandex.ru/i/3ugUWtxQFCuviA)  
+- 🔍 **Open to work**: [My Resume](https://disk.yandex.ru/i/kwM1CTDSmsqOEQ)  
 
 ---
 
