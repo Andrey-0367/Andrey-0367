@@ -1,92 +1,101 @@
-<h1 align="center">Hi there, I'm <a href="https://disk.yandex.ru/i/3ugUWtxQFCuviA" target="_blank">Andrey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> Я Фронтенд-разработчик из России 🇷🇺</h3>
+<h1 align="center">
+  Hi there, I'm <a href="https://disk.yandex.ru/i/3ugUWtxQFCuviA" target="_blank">Andrey</a> 
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
+<h3 align="center">Frontend Developer from Russia 🇷🇺 | React & TypeScript Enthusiast</h3>
 
-### About me 👋
+---
+
+### 👨‍💻 **About Me**  
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yYzFjZGJvZGx2Y3RlZ3Z5Z2V6dGJ6eGZ1Z2R6d2VjZ2Z6eWZ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: Образование - Горный инженер. Работаю в строительной сфере. Всегда интересовался разработкой ПО. Сейчас занимаюсь профессионально.<br /> Закончил курс Backend и Frontend-разработка. Больше увлёкся Frontend.
+- 🎓 **Background**: Mining Engineer → Self-Taught Developer (Completed Yandex Practicum courses in **Backend & Frontend**).  
+- 💼 **Currently**: Working on [Studio-Yandex-Practicum/rassvet_frontend](https://github.com/Studio-Yandex-Practicum/rassvet_frontend).  
+- 🔥 **Passionate** about clean code, UX, and modern web technologies.  
+- 📫 **Contact**: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/adrey_vasilich)  
+- 🔍 **Open to work**: [My Resume](https://disk.yandex.ru/i/3ugUWtxQFCuviA)  
 
-- :seedling: В настоящее время я работаю над проектом Studio-Yandex-Practicum/rassvet_frontend
+---
 
-- :zap: Стремлюсь к повышению квалификации и расширению своего опыта.
-
-- :mailbox:Как со мной связаться: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/adrey_vasilich)
-
-- 👯 _**Активно ищу работу**_,  <a href="https://disk.yandex.ru/i/3ugUWtxQFCuviA">Моё резюме</a>
-
-<br />
-
-### 🛠️ Технологии и инструменты
+### 🛠 **Tech Stack**  
 
 **Frontend:**  
-<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
 </div>
 
 **Backend:**  
-<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; margin-bottom: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </div>
 
-**Инструменты:**  
-<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+**Tools:**  
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
-<br />
 
-### 📊 GitHub статистика
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrey-0367&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-0367&show_icons=true&theme=dark" alt="Top Langs" width="48%" />
+---
+
+### 📈 **GitHub Stats**  
+<div style="display: flex; gap: 20px; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrey-0367&show_icons=true&theme=dark&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-0367&layout=compact&theme=dark&hide_border=true" width="48%">
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+---
 
-## 🚀 Мои проекты
+### 🚀 **Featured Projects**  
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 30px; margin-top: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
 
-<!-- Проект 1 (слева) -->
-<div style="flex: 1; text-align: center; background: #1e1e1e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<!-- Project 1 -->
+<div style="background: #1e1e1e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h3 align="center">zakrivayuschiy-teg-f</h3>
+  <p align="center">Advanced CSS Techniques Project</p>
   <a href="https://github.com/Andrey-0367/zakrivayuschiy-teg-f">
-    <img src="https://via.placeholder.com/300x200/2d2d2d/ffffff?text=Project+1" alt="Проект 1" style="border-radius: 8px; max-width: 100%;">
+    <img src="https://via.placeholder.com/300x200/2d2d2d/ffffff?text=CSS+Magic" style="border-radius: 8px; width: 100%;">
   </a>
-  <h3>zakrivayuschiy-teg-f</h3>
-  <p>Проект по созданию веб-приложения с использованием CSS</p>
-  <a href="https://github.com/Andrey-0367/zakrivayuschiy-teg-f/blob/main/README.md">
-    <img src="https://img.shields.io/badge/Документация-Readme-blue?style=flat" alt="Документация">
-  </a>
+  <p align="center">
+    <a href="https://github.com/Andrey-0367/zakrivayuschiy-teg-f/blob/main/README.md">
+      <img src="https://img.shields.io/badge/📖_Readme-8A2BE2?style=flat" alt="Readme">
+    </a>
+  </p>
 </div>
 
-<!-- Проект 2 (справа) -->
-<div style="flex: 1; text-align: center; background: #1e1e1e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<!-- Project 2 -->
+<div style="background: #1e1e1e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h3 align="center">stellar-burgers</h3>
+  <p align="center">React-based Burger Builder App</p>
   <a href="https://github.com/Andrey-0367/stellar-burgers">
-    <img src="https://via.placeholder.com/300x200/2d2d2d/ffffff?text=Project+2" alt="Проект 2" style="border-radius: 8px; max-width: 100%;">
+    <img src="https://via.placeholder.com/300x200/2d2d2d/ffffff?text=React+Burger" style="border-radius: 8px; width: 100%;">
   </a>
-  <h3>stellar-burgers</h3>
-  <p>Интерактивное приложение для заказа бургеров с использованием React</p>
-  <a href="https://github.com/Andrey-0367/stellar-burgers/blob/main/README.md">
-    <img src="https://img.shields.io/badge/Документация-Readme-blue?style=flat" alt="Документация">
-  </a>
+  <p align="center">
+    <a href="https://github.com/Andrey-0367/stellar-burgers/blob/main/README.md">
+      <img src="https://img.shields.io/badge/🚀_Live_Demo-green?style=flat" alt="Demo">
+    </a>
+    <a href="https://github.com/Andrey-0367/stellar-burgers/blob/main/README.md">
+      <img src="https://img.shields.io/badge/📖_Readme-8A2BE2?style=flat" alt="Readme">
+    </a>
+  </p>
 </div>
 
 </div>
 
+---
 
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Andrey-0367&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
