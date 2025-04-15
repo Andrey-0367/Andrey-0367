@@ -59,43 +59,52 @@
 
 ### 🚀 **My Projects**
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin-top: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 20px;">
 
-<!-- Проект 1 -->
+<!-- Проект 1: zakrivayuschiy-teg-f -->
 <div style="background: #1e1e1e; padding: 15px; border-radius: 8px; border: 1px solid #444;">
-  <h4 align="center">📌 zakrivayuschiy-teg-f</h4>
-  <p>Веб-приложение с продвинутыми CSS-эффектами.</p>
-  <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" height="20">
+  <h4 align="center">🎨 zakrivayuschiy-teg-f</h4>
+  <p>Интерактивный проект с CSS-анимациями и эффектами.</p>
+  
+  <div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" height="20">
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" height="20">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" height="20">
   </div>
-  <p align="center" style="margin-top: 10px;">
+  
+  <div align="center" style="margin-top: 10px;">
     <a href="https://github.com/Andrey-0367/zakrivayuschiy-teg-f">
-      <img src="https://img.shields.io/badge/Code-181717?logo=github&style=flat" height="20">
+      <img src="https://img.shields.io/badge/Code-181717?logo=github&style=for-the-badge" height="24">
     </a>
-  </p>
+    <a href="https://andrey-0367.github.io/zakrivayuschiy-teg-f/">
+      <img src="https://img.shields.io/badge/Live_Demo-2ECC71?style=for-the-badge&logo=vercel&logoColor=white" height="24">
+    </a>
+  </div>
 </div>
 
-<!-- Проект 2 -->
+<!-- Проект 2: stellar-burgers -->
 <div style="background: #1e1e1e; padding: 15px; border-radius: 8px; border: 1px solid #444;">
   <h4 align="center">🍔 stellar-burgers</h4>
-  <p>Интерактивный конструктор бургеров на React и Redux.</p>
-  <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" height="20">
+  <p>Конструктор бургеров с drag-and-drop (React + Redux).</p>
+  
+  <div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0;">
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" height="20">
     <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat" height="20">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" height="20">
   </div>
-  <p align="center" style="margin-top: 10px;">
+  
+  <div align="center" style="margin-top: 10px;">
     <a href="https://github.com/Andrey-0367/stellar-burgers">
-      <img src="https://img.shields.io/badge/Code-181717?logo=github&style=flat" height="20">
+      <img src="https://img.shields.io/badge/Code-181717?logo=github&style=for-the-badge" height="24">
     </a>
     <a href="https://andrey-0367.github.io/stellar-burgers/">
-      <img src="https://img.shields.io/badge/Live_Demo-green?style=flat" height="20">
+      <img src="https://img.shields.io/badge/Live_Demo-2ECC71?style=for-the-badge&logo=vercel&logoColor=white" height="24">
     </a>
-  </p>
+  </div>
 </div>
 
 </div>
----
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Andrey-0367&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
