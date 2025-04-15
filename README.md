@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://github.com/Andrey-0367/zakrivayuschiy-teg-f/blob/main/README.md
+https://github.com/Andrey-0367/stellar-burgers/blob/main/README.md
