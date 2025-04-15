@@ -16,7 +16,7 @@
 
 - :zap: Стремлюсь к повышению квалификации и расширению своего опыта.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://images.icon-icons.com/2530/PNG/96/telegram_button_icon_151837.png)](your-linkedin-url)
 
 - 👯 _**Активно ищу работу**_,  <a href="https://disk.yandex.ru/i/3ugUWtxQFCuviA">Моё резюме</a>
 <br />
