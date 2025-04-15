@@ -40,16 +40,22 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+## 🚀 Мои проекты
 
-<div align="center">
-  <h3 align="center">Некоторые проекты</h3>
-
-  <p>
-    <br />
-    <a align="left" href="https://github.com/Andrey-0367/zakrivayuschiy-teg-f/blob/main/README.md">zakrivayuschiy-teg-f</a>
-    <br />
-    <br />
-    <a align="right" href="https://github.com/Andrey-0367/stellar-burgers/blob/main/README.md">stellar-burgers</a>
-  </p>
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <div>
+    <a href="https://github.com/Andrey-0367/zakrivayuschiy-teg-f/blob/main/README.md"">
+      <img src="https://via.placeholder.com/150" alt="Проект 1" width="150">
+    </a>
+    <p><span>zakrivayuschiy-teg-f</span><br>Описание</p>
+  </div>
+  <div>
+    <a href="https://github.com/Andrey-0367/stellar-burgers/blob/main/README.md">
+      <img src="https://via.placeholder.com/150" alt="Проект 2" width="150">
+    </a>
+    <p><span>stellar-burgers</span><br>Описание</p>
+  </div>
 </div>
+
+
 
