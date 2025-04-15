@@ -1,6 +1,6 @@
-## Hi there 👋
+## About me 👋
 
-<!--
+
 **Andrey-0367/Andrey-0367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-###  https://github.com/Andrey-0367/zakrivayuschiy-teg-f/blob/main/README.md
-###  https://github.com/Andrey-0367/stellar-burgers/blob/main/README.md
+
+####  https://github.com/Andrey-0367/zakrivayuschiy-teg-f/blob/main/README.md
+####  https://github.com/Andrey-0367/stellar-burgers/blob/main/README.md
