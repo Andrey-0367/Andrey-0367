@@ -57,45 +57,45 @@
 
 ---
 
-### 🚀 **Featured Projects**  
+### 🚀 **My Projects**
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin-top: 20px;">
 
-<!-- Project 1 -->
-<div style="background: #1e1e1e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <h3 align="center">zakrivayuschiy-teg-f</h3>
-  <p align="center">Advanced CSS Techniques Project</p>
-  <a href="https://github.com/Andrey-0367/zakrivayuschiy-teg-f">
-    <img src="https://via.placeholder.com/300x200/2d2d2d/ffffff?text=CSS+Magic" style="border-radius: 8px; width: 100%;">
-  </a>
-  <p align="center">
-    <a href="https://github.com/Andrey-0367/zakrivayuschiy-teg-f/blob/main/README.md">
-      <img src="https://img.shields.io/badge/📖_Readme-8A2BE2?style=flat" alt="Readme">
+<!-- Проект 1 -->
+<div style="background: #1e1e1e; padding: 15px; border-radius: 8px; border: 1px solid #444;">
+  <h4 align="center">📌 zakrivayuschiy-teg-f</h4>
+  <p>Веб-приложение с продвинутыми CSS-эффектами.</p>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" height="20">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" height="20">
+  </div>
+  <p align="center" style="margin-top: 10px;">
+    <a href="https://github.com/Andrey-0367/zakrivayuschiy-teg-f">
+      <img src="https://img.shields.io/badge/Code-181717?logo=github&style=flat" height="20">
     </a>
   </p>
 </div>
 
-<!-- Project 2 -->
-<div style="background: #1e1e1e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <h3 align="center">stellar-burgers</h3>
-  <p align="center">React-based Burger Builder App</p>
-  <a href="https://github.com/Andrey-0367/stellar-burgers">
-    <img src="https://via.placeholder.com/300x200/2d2d2d/ffffff?text=React+Burger" style="border-radius: 8px; width: 100%;">
-  </a>
-  <p align="center">
-    <a href="https://github.com/Andrey-0367/stellar-burgers/blob/main/README.md">
-      <img src="https://img.shields.io/badge/🚀_Live_Demo-green?style=flat" alt="Demo">
+<!-- Проект 2 -->
+<div style="background: #1e1e1e; padding: 15px; border-radius: 8px; border: 1px solid #444;">
+  <h4 align="center">🍔 stellar-burgers</h4>
+  <p>Интерактивный конструктор бургеров на React и Redux.</p>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" height="20">
+    <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat" height="20">
+  </div>
+  <p align="center" style="margin-top: 10px;">
+    <a href="https://github.com/Andrey-0367/stellar-burgers">
+      <img src="https://img.shields.io/badge/Code-181717?logo=github&style=flat" height="20">
     </a>
-    <a href="https://github.com/Andrey-0367/stellar-burgers/blob/main/README.md">
-      <img src="https://img.shields.io/badge/📖_Readme-8A2BE2?style=flat" alt="Readme">
+    <a href="https://andrey-0367.github.io/stellar-burgers/">
+      <img src="https://img.shields.io/badge/Live_Demo-green?style=flat" height="20">
     </a>
   </p>
 </div>
 
 </div>
-
 ---
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Andrey-0367&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
