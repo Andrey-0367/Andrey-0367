@@ -13,6 +13,10 @@
 - 👯 _**Активно ищу работу**_,  <a href="https://disk.yandex.ru/i/3ugUWtxQFCuviA">Моё резюме</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey-0367)](https://github.com/anuraghazra/github-readme-stats)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <br />
 <div align="center">
   <h3 align="center">Некоторые проекты</h3>
