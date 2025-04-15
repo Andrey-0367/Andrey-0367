@@ -44,12 +44,12 @@
 <div align="center">
   <h3 align="center">Некоторые проекты</h3>
 
-  <p align="left">
+  <p>
     <br />
-    <a href="https://github.com/Andrey-0367/zakrivayuschiy-teg-f/blob/main/README.md">zakrivayuschiy-teg-f</a>
+    <a align="left" href="https://github.com/Andrey-0367/zakrivayuschiy-teg-f/blob/main/README.md">zakrivayuschiy-teg-f</a>
     <br />
     <br />
-    <a href="https://github.com/Andrey-0367/stellar-burgers/blob/main/README.md">Основы Redux</a>
+    <a align="right" href="https://github.com/Andrey-0367/stellar-burgers/blob/main/README.md">stellar-burgers</a>
   </p>
 </div>
 
