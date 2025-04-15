@@ -44,9 +44,9 @@
 <div align="center">
   <h3 align="center">Некоторые проекты</h3>
 
-  <p align="center">
+  <p align="left">
     <br />
-    <a href="https://github.com/Andrey-0367/zakrivayuschiy-teg-f/blob/main/README.md">Основы CSS</a>
+    <a href="https://github.com/Andrey-0367/zakrivayuschiy-teg-f/blob/main/README.md">zakrivayuschiy-teg-f</a>
     <br />
     <br />
     <a href="https://github.com/Andrey-0367/stellar-burgers/blob/main/README.md">Основы Redux</a>
