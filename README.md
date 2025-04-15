@@ -16,7 +16,7 @@
 
 - :zap: Стремлюсь к повышению квалификации и расширению своего опыта.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://images.icon-icons.com/2530/PNG/96/telegram_button_icon_151837.png)](your-linkedin-url)
+- :mailbox:Как соо мной связаться: [![Linkedin Badge](https://images.icon-icons.com/2530/PNG/96/telegram_button_icon_151837.png)](https://t.me/adrey_vasilich)
 
 - 👯 _**Активно ищу работу**_,  <a href="https://disk.yandex.ru/i/3ugUWtxQFCuviA">Моё резюме</a>
 <br />
