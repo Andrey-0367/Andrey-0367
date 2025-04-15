@@ -21,10 +21,6 @@
 - 👯 _**Активно ищу работу**_,  <a href="https://disk.yandex.ru/i/3ugUWtxQFCuviA">Моё резюме</a>
 <br />
 
-- 💬 Образование - Горный инженер. Работаю в строительной сфере. Всегда интересовался разработкой ПО. Сейчас занимаюсь профессионально.<br /> Закончил курс Backend и Frontend-разработка. Больше увлёкся Frontend.
-- 🔭 В настоящее время я работаю над проектом Studio-Yandex-Practicum/rassvet_frontend
-- 🌱 Стремлюсь к повышению квалификации и расширению своего опыта.
-- 👯 _**Активно ищу работу**_,  <a href="https://disk.yandex.ru/i/3ugUWtxQFCuviA">Моё резюме</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey-0367)](https://github.com/anuraghazra/github-readme-stats)
 
