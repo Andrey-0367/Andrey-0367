@@ -18,10 +18,10 @@
 
   <p align="center">
     <br />
-    <a href=" https://github.com/Andrey-0367/zakrivayuschiy-teg-f/blob/main/README.md"><strong> »</strong></a>
+    <a href=" https://github.com/Andrey-0367/zakrivayuschiy-teg-f/blob/main/README.md">Основы CSS</a>
     <br />
     <br />
-    <a href="https://github.com/Andrey-0367/stellar-burgers/blob/main/README.md">Redux</a>
+    <a href="https://github.com/Andrey-0367/stellar-burgers/blob/main/README.md">Основы Redux</a>
   </p>
 </div>
 
