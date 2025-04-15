@@ -64,7 +64,7 @@
 <!-- Проект 1: zakrivayuschiy-teg-f -->
 <div style="background: #1e1e1e; padding: 15px; border-radius: 8px; border: 1px solid #444;">
   <h4 align="center">🎨 zakrivayuschiy-teg-f</h4>
-  <p>Интерактивный проект с CSS-анимациями и эффектами.</p>
+  <p>Проект с CSS-анимациями и эффектами.</p>
   
   <div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" height="20">
@@ -85,7 +85,7 @@
 <!-- Проект 2: stellar-burgers -->
 <div style="background: #1e1e1e; padding: 15px; border-radius: 8px; border: 1px solid #444;">
   <h4 align="center">🍔 stellar-burgers</h4>
-  <p>Конструктор бургеров с drag-and-drop (React + Redux).</p>
+  <p>>Интерактивный проект конструктор бургеров с drag-and-drop (React + Redux).</p>
   
   <div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0;">
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" height="20">
