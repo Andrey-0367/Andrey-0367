@@ -12,5 +12,21 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-####  https://github.com/Andrey-0367/zakrivayuschiy-teg-f/blob/main/README.md
-####  https://github.com/Andrey-0367/stellar-burgers/blob/main/README.md
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Некоторые проекты</h3>
+
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href=" https://github.com/Andrey-0367/zakrivayuschiy-teg-f/blob/main/README.md"><strong>CSS »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Andrey-0367/stellar-burgers/blob/main/README.md">Redux</a>
+  </p>
+</div>
+
