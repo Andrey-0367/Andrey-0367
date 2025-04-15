@@ -1,7 +1,7 @@
-## About me 👋
+## Всем привет! Меня зовут Андрей.:raised_hand:
 
-
-**Всем привет! Меня зовут Андрей.
+##
+### About me 👋
 
 - 🔭 В настоящее время я работаю над проектом Studio-Yandex-Practicum/rassvet_frontend
 - 🌱 I’m currently learning ...
