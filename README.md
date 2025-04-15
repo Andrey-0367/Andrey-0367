@@ -6,6 +6,20 @@
 
 ##
 ### About me 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+- :telescope: Образование - Горный инженер. Работаю в строительной сфере. Всегда интересовался разработкой ПО. Сейчас занимаюсь профессионально.<br /> Закончил курс Backend и Frontend-разработка. Больше увлёкся Frontend.
+
+- :seedling: В настоящее время я работаю над проектом Studio-Yandex-Practicum/rassvet_frontend
+
+- :zap: Стремлюсь к повышению квалификации и расширению своего опыта.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+- 👯 _**Активно ищу работу**_,  <a href="https://disk.yandex.ru/i/3ugUWtxQFCuviA">Моё резюме</a>
+<br />
 
 - 💬 Образование - Горный инженер. Работаю в строительной сфере. Всегда интересовался разработкой ПО. Сейчас занимаюсь профессионально.<br /> Закончил курс Backend и Frontend-разработка. Больше увлёкся Frontend.
 - 🔭 В настоящее время я работаю над проектом Studio-Yandex-Practicum/rassvet_frontend
@@ -18,18 +32,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-<br />
 <div align="center">
   <h3 align="center">Некоторые проекты</h3>
 
